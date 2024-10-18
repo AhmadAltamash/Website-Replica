@@ -66,7 +66,6 @@ var tl = gsap.timeline({
     scrollTrigger:{
         trigger:"#page1",
         scroller:".main",
-        markers:true,
         start:"15% 10%",
         end:"20% 10%",
         scrub:3
