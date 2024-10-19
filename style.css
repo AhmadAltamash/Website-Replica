@@ -204,7 +204,7 @@ nav i:hover{
     opacity: 0;
     animation: showContent 1s forwards 1 ease-in-out;
     backdrop-filter: blur(10px);
-    border-radius: 20px;
+    border-radius: 10px;
     background: #00000089;
     padding: .2em .5em;
 }
@@ -213,7 +213,7 @@ nav i:hover{
     opacity: 0;
     animation: showContent 1s forwards 1 0.3s ease-in-out;
     backdrop-filter: blur(10px);
-    border-radius: 20px;
+    border-radius: 10px;
     background: #00000089;
     padding: .2em .5em;
 }
