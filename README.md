@@ -47,7 +47,7 @@ This project showcases a collection of website clones that replicate popular des
     <img src="Media/Sidcup.png" />
 4. Wizard-X
     <img src="Media/wizard.png"/>
-5 Magma
+5. Magma
     <img src="Media/Magma.png"/>
 6. Awwards Portfolio
     <img src="Media/Port.png"/>
