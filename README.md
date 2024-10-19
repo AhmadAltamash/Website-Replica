@@ -42,15 +42,15 @@ This project showcases a collection of website clones that replicate popular des
 1. Duo Studio
     <img src="Media/Duo.png"/>
 2. Myntra
-    <img src="Media/Myntra.png"/>
+    <img src="Media/myntra.png"/>
 3. Sydcup Family Gulf
     <img src="Media/Sidcup.png" />
 4. Wizard-X
-    <img src="Media/Wizard-X.png"/>
+    <img src="Media/wizard-X.png"/>
 5 Magma
     <img src="Media/Magma.png"/>
 6. Awwards Portfolio
-    <img src="Media/Awwards.png"/>
+    <img src="Media/Port.png"/>
 
 ## Credits
 - **Magma Website:** Based on the original design by [Magma](https://thisismagma.com/).
